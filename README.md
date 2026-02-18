@@ -12,7 +12,7 @@
  
   1.2. 브랜치 전략
   
-    <img width="680" height="362" alt="git flow 전략" src="https://github.com/user-attachments/assets/fc4ba64a-49d4-45d8-91f9-384bd8acf24b" />
+  <img width="680" height="362" alt="git flow 전략" src="https://github.com/user-attachments/assets/fc4ba64a-49d4-45d8-91f9-384bd8acf24b" />
   
     [개발 FLOW]
     개발은 DEV에서 개인별/기능별 feature 브랜치를 따고 해당 브랜치에서 진행
